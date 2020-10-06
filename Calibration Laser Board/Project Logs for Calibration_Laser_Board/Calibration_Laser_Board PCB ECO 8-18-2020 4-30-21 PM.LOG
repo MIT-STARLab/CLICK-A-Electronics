@@ -1,0 +1,13 @@
+Added Component: Designator=C?(532617003)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_1 Pin=C?-1
+Added Pin To Net: NetName=NetJ1_2 Pin=C?-2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetC?_2
+Added Pin To Net: NetName=GND Pin=C?-4
+Added Pin To Net: NetName=GND Pin=C?-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_3 Pin=C?-3
+Added Pin To Net: NetName=NetC?_3 Pin=L1-3
+Added Net: Name=NetC?_3
+Added Member To Class: ClassName=Cal_Laser_Board Member=Component C? 53261-7003
